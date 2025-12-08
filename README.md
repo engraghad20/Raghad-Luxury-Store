@@ -20,5 +20,5 @@ Focused on UI/UX refinement, ensuring smooth navigation and a consistent luxury 
 Tech Stack:
 HTML5 | CSS3 | JavaScript | PHP | JSON
 
-Google Drive:
-[Open the model folder on Google Drive]([https://drive.google.com/drive/folders/1md8RnCbcMSZVkiN5u46nKVlhDDMdQ-gJ?usp=sharing])
+Google Drive:  
+[Open the dataset folder on Google Drive](https://drive.google.com/drive/folders/1md8RnCbcMSZVkiN5u46nKVlhDDMdQ-gJ?usp=drive_link)
