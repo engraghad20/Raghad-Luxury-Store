@@ -1,4 +1,6 @@
  🛍️ Raghad’ Luxury Store
+ ![a7abeb62-dce4-48b8-a4dc-4fb8f046f9ca](https://github.com/user-attachments/assets/57ea1591-edad-4576-9a5e-b3561e8a0cc5)
+
 Description:
 A fully functional e-commerce website I independently developed to simulate a luxury cosmetics shopping experience. The project reflects my ability to build complete web solutions from front-end design to back-end logic and data handling.
 
