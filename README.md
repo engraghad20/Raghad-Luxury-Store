@@ -1,4 +1,4 @@
-<img width="811" height="492" alt="Screenshot 2026-11-02 161910" src="https://github.com/user-attachments/assets/fd2988da-edb7-45f9-ab8b-30db912fc7a1" />
+<img width="1900" height="910" alt="Screenshot 2026-11-02 190026" src="https://github.com/user-attachments/assets/39f795be-ff7d-418d-81d5-e45900f0e5ff" />
 
 # Raghade’ Luxury | Premium E-Commerce Platform
 
