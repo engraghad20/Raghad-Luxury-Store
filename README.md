@@ -1,30 +1,28 @@
- 🛍️ Raghad’ Luxury Store
- ![a7abeb62-dce4-48b8-a4dc-4fb8f046f9ca](https://github.com/user-attachments/assets/57ea1591-edad-4576-9a5e-b3561e8a0cc5)
+# Raghade Luxe Marketplace
 
-Description:
-A fully functional e-commerce website I independently developed to simulate a luxury cosmetics shopping experience. The project reflects my ability to build complete web solutions from front-end design to back-end logic and data handling.
+إعادة هندسة وتطوير موقعي الحالي MyStore (Raghade' Luxury) ليصبح موقعًا احترافيًا متكاملًا بتصميم عالمي فاخر (Minimal & Premium) مستوحى من كبرى الشركات التقنية، مع الحفاظ على هوية الموقع الأصلية ومحتواه ووظائفه وصوره.
 
-My Role & Contributions:
+ابدأ ببناء واجهة المتجر الفاخرة بالكامل باستخدام React وTypeScript وTailwind CSS وFramer Motion، مع دعم كامل للغة العربية (RTL) مع الخطوط الفاخرة (Tajawal وPlayfair Display) وتنسيق الألوان الذهبي والأسود والكريمي الفاخر، مع إعداد قاعدة PostgreSQL وجداول المنتجات والتصنيفات والطلبات والمستخدمين، وإدراج جميع المنتجات والبيانات والصور المرفقة، وتوفير تجربة تسوق متكاملة تشمل السلة، والتصفية والبحث، وإتمام الطلب والفاتورة.
 
-Designed and implemented a responsive, user-centered interface using HTML5, CSS3, and JavaScript.
+This project was built with [Lovable](https://lovable.dev).
 
-Developed a dynamic product display and interactive shopping cart with real-time updates.
+**Live app**: https://raghade-luxe-marketplace.lovable.app
 
-Built a secure user authentication system (registration & login) using PHP.
+## Build with Lovable
 
-Managed data persistence through structured JSON files for users, products, and orders.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f6386d72-1dca-408b-90cd-00df9a1344e2).
 
-Ensured clean, scalable code architecture for future feature expansion (e.g., payment integration, product reviews).
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
-Focused on UI/UX refinement, ensuring smooth navigation and a consistent luxury aesthetic across devices.
+## Development
 
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-Tech Stack:
-HTML5 | CSS3 | JavaScript | PHP | JSON
-
-📁 Google Drive – Dataset:
-https://drive.google.com/drive/folders/1md8RnCbcMSZVkiN5u46nKVlhDDMdQ-gJ?usp=drive_link
-
-🌐 Website: 
-موقع محلي يعمل على الجهاز (Localhost).
-
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
