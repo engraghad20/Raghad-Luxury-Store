@@ -1,28 +1,17 @@
-# Raghade Luxe Marketplace
+<img width="811" height="492" alt="Screenshot 2026-11-02 161910" src="https://github.com/user-attachments/assets/fd2988da-edb7-45f9-ab8b-30db912fc7a1" />
 
-إعادة هندسة وتطوير موقعي الحالي MyStore (Raghade' Luxury) ليصبح موقعًا احترافيًا متكاملًا بتصميم عالمي فاخر (Minimal & Premium) مستوحى من كبرى الشركات التقنية، مع الحفاظ على هوية الموقع الأصلية ومحتواه ووظائفه وصوره.
+# Raghade’ Luxury | Premium E-Commerce Platform
 
-ابدأ ببناء واجهة المتجر الفاخرة بالكامل باستخدام React وTypeScript وTailwind CSS وFramer Motion، مع دعم كامل للغة العربية (RTL) مع الخطوط الفاخرة (Tajawal وPlayfair Display) وتنسيق الألوان الذهبي والأسود والكريمي الفاخر، مع إعداد قاعدة PostgreSQL وجداول المنتجات والتصنيفات والطلبات والمستخدمين، وإدراج جميع المنتجات والبيانات والصور المرفقة، وتوفير تجربة تسوق متكاملة تشمل السلة، والتصفية والبحث، وإتمام الطلب والفاتورة.
+إعادة هندسة وتطوير متجر **MyStore – Raghade’ Luxury** لتحويله إلى تجربة تجارة إلكترونية فاخرة بمعايير تصميم عالمية، تجمع بين البساطة الراقية (Minimal & Premium)، والهوية البصرية المميزة، وتجربة التسوق السلسة.
 
-This project was built with [Lovable](https://lovable.dev).
+**التقنيات المستخدمة:**
+React · TypeScript · Tailwind CSS · Framer Motion · PostgreSQL
 
-**Live app**: https://raghade-luxe-marketplace.lovable.app
+**أبرز الخصائص:**
+- واجهة عصرية متكاملة مع دعم العربية وRTL.
+- هوية بصرية فاخرة بالألوان الذهبية والأسود والكريمي.
+- عرض المنتجات والتصنيفات مع البحث والتصفية.
+- سلة تسوق متكاملة وإتمام الطلبات والفواتير.
+- قاعدة بيانات لإدارة المنتجات والمستخدمين والطلبات.
 
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f6386d72-1dca-408b-90cd-00df9a1344e2).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+**Live Demo:** https://raghade-luxe-marketplace.lovable.app
