@@ -15,4 +15,4 @@ React · TypeScript · Tailwind CSS · Framer Motion · PostgreSQL
 - قاعدة بيانات لإدارة المنتجات والمستخدمين والطلبات.
 
 **Live Demo:**  
-https://raghade-luxe-marketplace.lovable.app
+https://raghade-luxury.vercel.app/
